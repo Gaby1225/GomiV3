@@ -1,0 +1,33 @@
+{
+    "Motoristas": {
+        "data": [{
+                "id": "M01",
+                "email": "m01@motorista.com",
+                "senha": "m0123@",
+                "nome": "Clint Jameson",
+                "nascimento": "11/11/1991",
+                "cpf": "18390475679",
+                "telefone": "11958462598",
+                "tipoVeiculo": "carroça",
+                "cnh": "6547839123",
+                "expiracao": "09/09/2029",
+                "categoria": "c",
+                "carga": "16000"
+            },
+            {
+                "id": "M02",
+                "email": "m02@motorista.com",
+                "senha": "m0321@",
+                "nome": "James Clintson",
+                "nascimento": "01/01/2001",
+                "cpf": "75936485908",
+                "telefone": "11982465198",
+                "tipoVeiculo": "caminhaozeira",
+                "cnh": "3219387456",
+                "expiracao": "12/12/2022",
+                "categoria": "e",
+                "carga": "50000"
+            }
+        ]
+    }
+}

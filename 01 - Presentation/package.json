@@ -1,0 +1,25 @@
+{
+    "name": "gomiv3",
+    "version": "1.0.0",
+    "description": "TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project.",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon server",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://ProjetosFESA@dev.azure.com/ProjetosFESA/GomiV3/_git/GomiV3"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.19.2",
+        "config": "^3.3.7",
+        "consign": "^0.1.6",
+        "express": "^4.17.3",
+        "swagger-jsdoc": "^6.1.0",
+        "swagger-ui-express": "^4.3.0"
+    }
+}

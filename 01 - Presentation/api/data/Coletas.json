@@ -1,0 +1,32 @@
+{
+    "Coletas": {
+        "data": [{
+                "id": "01",
+                "nome": "coleta de entulho",
+                "tipo": "Entulho",
+                "peso": "22kg",
+                "status": "1",
+                "MotoristaId": "M01",
+                "ClienteId": "C01"
+            },
+            {
+                "id": "02",
+                "nome": "coleta de 'Cositas'",
+                "tipo": "Outros: cositas",
+                "peso": "1kg",
+                "status": "1",
+                "MotoristaId": "",
+                "ClienteId": "C01"
+            },
+            {
+                "id": "03",
+                "nome": "coleta de eletrônicos",
+                "tipo": "Eletrônicos",
+                "peso": "3kg",
+                "status": "0",
+                "MotoristaId": "",
+                "ClienteId": "C01"
+            }
+        ]
+    }
+}

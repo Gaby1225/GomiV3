@@ -1,0 +1,35 @@
+{
+    "Clientes": {
+        "data": [{
+                "id": "C01",
+                "email": "c01@cliente.com",
+                "senha": "c0123@",
+                "nome": "Carl Johnson",
+                "nascimento": "11/11/1991",
+                "cpf": "18390475678",
+                "telefone": "11958462597",
+                "rua": "Rua dos Tolos",
+                "numero ": "69",
+                "complemento": "",
+                "bairro": "Campanilcio",
+                "cidade": "Santo Expenilson",
+                "cep": "09855645"
+            },
+            {
+                "id": "C02",
+                "email": "c02@cliente.com",
+                "senha": "c0321@",
+                "nome": "John Carlson",
+                "nascimento": "01/01/2001",
+                "cpf": "75936485909",
+                "telefone": "11982465197",
+                "rua": "Rua dos Amnimais",
+                "numero ": "420",
+                "complemento": "Casa 4",
+                "bairro": "Vila Monja",
+                "cidade": "Araçariguamaquaricoacoara",
+                "cep": "09882469"
+            }
+        ]
+    }
+}
